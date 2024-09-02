@@ -1,0 +1,12 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+* {
+	font-family: v-sans, v-mono, other-fallbacks;
+}
+
+body {
+	background-color: #fff;
+}
